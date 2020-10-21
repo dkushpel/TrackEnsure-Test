@@ -1,0 +1,20 @@
+<resources>
+
+    <string name="app_name">Track Ensure App</string>
+
+    <string name="maps_api">AIzaSyAI2jZH_QRJeBFxubIjb8PFpOnu7tCGzSY</string>
+    <string name="stations">Stations</string>
+    <string name="statistics">Statistics</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="name">Name</string>
+    <string name="type_of_fuel">Type of fuel</string>
+    <string name="quantity">Quantity</string>
+    <string name="cost">Cost</string>
+    <string-array name="modes">
+        <item>Diesel</item>
+        <item>Gasoline</item>
+        <item>Ethanol</item>
+        <item>Petrol</item>
+    </string-array>
+</resources>
